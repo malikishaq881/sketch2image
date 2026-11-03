@@ -1,0 +1,11 @@
+torch>=2.1
+diffusers>=0.30.0
+transformers>=4.40.0
+accelerate>=0.30.0
+safetensors>=0.4.2
+opencv-python-headless>=4.8
+numpy
+pillow
+pandas
+matplotlib
+gradio>=4.30
